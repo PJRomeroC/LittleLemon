@@ -1,5 +1,8 @@
 Urls to test
 
+user = admin
+password = lemon@123!
+
 Registration
 api/registration/
 
